@@ -1,0 +1,21 @@
+.pink-bg {
+  background-color: rgb(231, 169, 180);
+  font-size: 18px;
+}
+
+.pink-bg.big {
+  font-size: 32px;
+}
+
+#blue-text {
+  color: rgb(41, 41, 245);
+  font-size: 48px;
+}
+
+#green-bold {
+  background-color: rgb(201, 251, 127);
+
+  font-size: 32px;
+  font-weight: bold;
+}
+
